@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Extra Profession Tabs
+## Notes: Adds extra primary-profession tabs and cards to the professions window.
+## Version: 1.0.0
+## AllowLoadGameType: camelot
+
+ExtraProfessionTabs.lua
